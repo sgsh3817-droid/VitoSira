@@ -1,0 +1,6 @@
+{
+  "name": "PixelCraft",
+  "description": "Professional manual image editor and design creator, featuring layered editing, crop, rotate, flip, filters, text effects, drawing tools, stickers, shapes, templates, and project management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
